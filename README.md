@@ -27,7 +27,7 @@ To run the website locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/travel-website.git
+   https://github.com/Tulendra1111/Travel-website.git
    ```
 2. **Navigate to the project directory:**
    ```bash
@@ -46,7 +46,7 @@ travel-website/
 ├── css/
 │   └── style.css
 ├── js/
-│   └── main.js
+│   └── extrenaljq.js
 └── images/
     └── (all image assets used in the project)
 
