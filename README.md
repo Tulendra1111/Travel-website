@@ -19,7 +19,7 @@ A modern and responsive travel website designed using HTML, CSS, and JavaScript.
 
 ## Demo 📸
 
-You can view the demo of the Travel Website [here](https://your-demo-link.com) (replace with actual link).
+You can view the demo of the Travel Website [here](https://fastidious-lolly-0438d5.netlify.app/) (replace with actual link).
 
 ## Installation & Usage
 
